@@ -1,0 +1,23 @@
+body {
+    font-family: Times New Roman;
+}
+
+ul {
+    font-family: Times New Roman;
+    
+}
+li {
+  list-style: circle;
+}
+
+.list {
+  list-style: square;
+}
+
+#msg {
+  font-family: Times New Roman;
+}
+.light-theme {
+  color: #000000;
+  background: #5E95D6;
+}
